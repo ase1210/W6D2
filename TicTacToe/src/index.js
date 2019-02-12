@@ -1,6 +1,8 @@
-const View = // require appropriate file
-const Game = // require appropriate file
+const View = require('./ttt-view');
+const Game = require('../TicTacToe-game-logic/game');
 
   $(() => {
-    // Your code here
+    const game = new Game();
+    const $tttEl = $('.ttt');
+    // game.run???
   });
