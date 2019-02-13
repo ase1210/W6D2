@@ -1,0 +1,19 @@
+h2 {
+  text-align: center;
+  font-size: "70";
+}
+
+.hanoi {
+  display: flex;
+  width: 700px;
+  margin: 0 250px;
+}
+
+ul {
+  width: 200px;
+  height: 600px;
+}
+
+li {
+  
+}
